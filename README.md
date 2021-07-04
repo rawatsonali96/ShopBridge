@@ -15,9 +15,13 @@ I created a new user "admin" with email: 'a@gmail.com' and password: 'admin', an
 ![image](https://user-images.githubusercontent.com/15894553/124393478-58944e00-dd18-11eb-80e5-94a1c805eb4a.png)
 
 Add item form:
+
+
 ![image](https://user-images.githubusercontent.com/15894553/124394466-35b86880-dd1d-11eb-8213-c015ab40b201.png)
 
 Edit item form:
+
+
 ![image](https://user-images.githubusercontent.com/15894553/124394469-3e10a380-dd1d-11eb-8bac-67a4f071bb0b.png)
 
 All the forms contain validations
