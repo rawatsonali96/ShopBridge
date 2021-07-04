@@ -1,0 +1,30 @@
+$default-pixel: 8px;
+
+p {
+  font-family: Lato;
+}
+
+.card {
+  top: $default-pixel * $default-pixel / 1px;;
+  margin: auto;
+  width: 500px;
+}
+
+.form-group {
+  margin: $default-pixel;
+
+  & .email {
+    margin: $default-pixel;
+  }
+  & .password {
+    margin: $default-pixel;
+  }
+}
+
+.btn {
+  margin: $default-pixel
+}
+
+.btn-wrapper {
+  text-align: center;
+}

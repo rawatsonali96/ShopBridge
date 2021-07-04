@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "a@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "name": "sonali",
+      "email": "rawatsonali08@gmail.com",
+      "password": "123"
+    }
+  ],
+  "items": [
+    {
+      "name": "Bag",
+      "description": "Made in India",
+      "price": 1000,
+      "id": 2,
+      "userId": 1
+    },
+    {
+      "name": "Umbrella",
+      "description": "Easy to carry",
+      "price": 100,
+      "id": 4,
+      "userId": 1
+    },
+    {
+      "name": "Leather bag",
+      "description": "Best in market",
+      "price": 10000,
+      "id": 5,
+      "userId": 1
+    },
+    {
+      "id": 6,
+      "name": "Photoframe",
+      "description": "With stand",
+      "price": 150,
+      "userId": 1
+    },
+    {
+      "name": "Pillow",
+      "description": "Foam material",
+      "price": 111,
+      "id": 7,
+      "userId": 1
+    },
+    {
+      "name": "Curtain",
+      "description": "Purple colored",
+      "price": 1010,
+      "id": 8,
+      "userId": 1
+    },
+    {
+      "name": "Pillow cover",
+      "description": "In a pair",
+      "price": 250,
+      "id": 9,
+      "userId": 1
+    },
+    {
+      "id": 1,
+      "name": "Leather bag",
+      "description": "Best in market",
+      "price": 12000,
+      "userId": 2
+    }
+  ]
+}

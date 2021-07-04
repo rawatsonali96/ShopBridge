@@ -1,0 +1,25 @@
+$default-pixel: 8px;
+
+.table {
+  margin: auto;
+  margin-top: $default-pixel;
+  width: ($default-pixel * $default-pixel * $default-pixel) / (1px * 1px);
+}
+
+.wrapper {
+  text-align: right;
+}
+
+button {
+  margin-top: $default-pixel;
+  margin-right: $default-pixel;
+}
+
+.bi{
+  margin: $default-pixel;
+  cursor: pointer;
+}
+
+.hidden {
+  visibility: hidden;
+}

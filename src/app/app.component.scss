@@ -1,0 +1,19 @@
+.navbar {
+  margin: 0px;
+  max-width: 100%;
+  padding: 8px;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+span {
+  font-weight: 700;
+  margin-top: 8px;
+  margin-left: auto;
+}
+
+.logout :hover{
+  cursor: pointer;
+}
