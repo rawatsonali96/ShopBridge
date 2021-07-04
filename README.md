@@ -14,10 +14,13 @@ To register, click on the register button and you will be redirected to register
 I created a new user "admin" with email: 'a@gmail.com' and password: 'admin', and logged in
 ![image](https://user-images.githubusercontent.com/15894553/124393478-58944e00-dd18-11eb-80e5-94a1c805eb4a.png)
 
+All the forms contain validations
+
 ## Development server
 Navigate to the location and then :
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 Run `npm run json:server` to run json-server
+
 
 
 
